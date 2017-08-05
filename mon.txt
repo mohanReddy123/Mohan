@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F2B5-BC04
+
+ Directory of C:\Users\Mastercom-301\Desktop\mohan
+
+06-08-2017  01:59    <DIR>          .
+06-08-2017  01:59    <DIR>          ..
+06-08-2017  01:59                 0 mon.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  106,985,926,656 bytes free
